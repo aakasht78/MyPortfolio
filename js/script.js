@@ -4,4 +4,4 @@ var typed = new Typed(".typing",{
     typespeed:100,
     BackSpeed:60,
     loop:true
-});
+}):
